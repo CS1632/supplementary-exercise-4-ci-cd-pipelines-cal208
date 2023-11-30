@@ -3,7 +3,7 @@ package edu.pitt.cs;
 public class Cat {
 
 	/**
-	 * Indicates whether or not the cat is rented.
+	 * Indicates whether or not the cat is rented
 	 */
 
 	private boolean rented = false;
